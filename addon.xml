@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.simple_station_fr" name="Radios francophones" version="0.0.1" provider-name="lambda-isel">
+<addon id="plugin.audio.simple_station_fr" name="Radios francophones" version="0.0.2" provider-name="lambda-isel">
   <requires>
     <import addon="script.module.simple_station"/>
     <import addon="xbmc.python" version="2.26.0"/>
